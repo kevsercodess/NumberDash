@@ -21,6 +21,8 @@ public class ScoreBoard {
      * Updates the high score if beaten, then displays the results.
      * @param score number of correct answers in this race
      */
+    // This method updates the high score
+   // and displays the player's performance after the race
     public void updateAndDisplay(int score) {
         gamesPlayed++;
 
