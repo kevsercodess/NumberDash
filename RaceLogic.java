@@ -1,3 +1,5 @@
+// RaceLogic handles the main game mechanics
+// It generates math questions and controls player and CPU movement
 package com.mycompany.numberdash;
 
 import java.util.Random;
