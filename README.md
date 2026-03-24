@@ -68,4 +68,4 @@ Build Version: V1.1
 
 ## Author
 
-Kevser Erdoğan
+Ayse Kevser Erdoğan
