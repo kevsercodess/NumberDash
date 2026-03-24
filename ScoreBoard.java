@@ -1,3 +1,6 @@
+// ScoreBoard class manages the final score display
+// It updates and shows the player's performance after the race
+
 package com.mycompany.numberdash;
 
 /**
