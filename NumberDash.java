@@ -25,7 +25,7 @@ public class NumberDash {
         System.out.println("up your car and beat the CPU!");
         System.out.println("Get ready to race with your math skills!");
         System.out.println("=================================\n");
-
+// Main game loop that keeps the menu running until the player quits
         while (running) {
             // Main menu
             System.out.println("--- Main Menu ---");
