@@ -23,6 +23,7 @@ public class NumberDash {
         System.out.println("=================================");
         System.out.println("Answer math questions to speed");
         System.out.println("up your car and beat the CPU!");
+        System.out.println("Get ready to race with your math skills!");
         System.out.println("=================================\n");
 
         while (running) {
